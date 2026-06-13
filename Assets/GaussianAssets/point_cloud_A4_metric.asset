@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b71fae31e6c7d438e8566dc713e666, type: 3}
+  m_Name: point_cloud_A4_metric
+  m_EditorClassIdentifier: 
+  m_FormatVersion: 20231020
+  m_SplatCount: 788601
+  m_BoundsMin: {x: -3.3564196, y: -1.3559544, z: -1.0953041}
+  m_BoundsMax: {x: 2.770209, y: 3.772546, z: 2.8259804}
+  m_DataHash:
+    serializedVersion: 2
+    Hash: c2ce80219e7dae289721ae29c22f4a6d
+  m_PosFormat: 2
+  m_ScaleFormat: 2
+  m_SHFormat: 3
+  m_ColorFormat: 2
+  m_PosData: {fileID: 4900000, guid: c30bc78d955ae3d49b99b6aaa979a5f9, type: 3}
+  m_ColorData: {fileID: 4900000, guid: 5aedcfea32363c94981dbd1c300e4921, type: 3}
+  m_OtherData: {fileID: 4900000, guid: 35ed4ce6be3ff1b449d73c2d1351a6e9, type: 3}
+  m_SHData: {fileID: 4900000, guid: 39745ef9bba77764f8a941863d0a160c, type: 3}
+  m_ChunkData: {fileID: 4900000, guid: 8e6476839a8cc374bae86e0989180836, type: 3}
+  m_Cameras: []
